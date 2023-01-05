@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+E2iMS4oAK7Fk9sKigRDxfVpsHDgeE1ZFKXaxw4AlmedQkqCZ2V2bADGmLcz9idVAzwU+W/sOcx+03IQPPQOww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Skyto\\source\\repos\\Xceptional test\\Xceptional test\\Xceptional test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Skyto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
